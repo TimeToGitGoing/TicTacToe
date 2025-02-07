@@ -1,7 +1,8 @@
-# Tic-Tac-Toe
+# Tic-tac-Toe
 
-Created with HTML, CSS and React!
+![TicTacToe](https://github.com/user-attachments/assets/1ded7389-f22a-4db7-b92c-6e0a4fe48811)
 
+Created with HTML, CSS and React.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
